@@ -1,0 +1,19 @@
+---
+title: "Pratik Majumdar"
+image: Photo_Self.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/pratik-majumdar-491282216/
+    - icon: github
+      text: Github
+      href: https://github.com/PratikMJ004
+
+---
+Results-oriented learner with curiosity in coding languages like R ,C and Julia, alongside proficiency in Excel and Power
+BI. My technical acumen is complemented by strong critical thinking and analytical skills. With a successful internship
+under my belt, I've demonstrated the practical application of my skills in real-world scenarios. Known for effective
+communication, I bridge the gap between technical complexities and non-technical stakeholders. Eager to contribute
+coding prowess, analytical insights, and collaborative strengths to drive success in dynamic environments.

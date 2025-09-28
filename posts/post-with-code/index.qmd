@@ -1,0 +1,9 @@
+---
+title: "Insurance Analysis"
+author: "Pratik Majumdar"
+date: "2025-09-28"
+categories: [code, analysis,r]
+image: "image.jpg"
+---
+
+This was a project, accounting the Insurance charges, pertaining to various causes. You can find the project [here](https://github.com/PratikMJ004/Insurance-Charges){target="\_blank"}

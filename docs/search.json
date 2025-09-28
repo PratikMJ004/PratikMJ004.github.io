@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Insurance Analysis\n\n\n\ncode\n\nanalysis\n\nr\n\n\n\n\n\n\n\n\n\nSep 28, 2025\n\n\nPratik Majumdar\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 25, 2025\n\n\nPratik Majumdar\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pratik Majumdar",
+    "section": "",
+    "text": "Results-oriented learner with curiosity in coding languages like R ,C and Julia, alongside proficiency in Excel and Power BI. My technical acumen is complemented by strong critical thinking and analytical skills. With a successful internship under my belt, I’ve demonstrated the practical application of my skills in real-world scenarios. Known for effective communication, I bridge the gap between technical complexities and non-technical stakeholders. Eager to contribute coding prowess, analytical insights, and collaborative strengths to drive success in dynamic environments."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Insurance Analysis",
+    "section": "",
+    "text": "This was a project, accounting the Insurance charges, pertaining to various causes. You can find the project here"
+  }
+]

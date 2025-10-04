@@ -1,0 +1,18 @@
+---
+title: "Lung Cancer"
+author: "Pratik Majumdar"
+date: "2025-10-04"
+categories: [code, analysis,r]
+image: "image.png"
+---
+
+The project utilizes a comprehensive data set of 228 patients, diagnosed with advanced Lung Cancer, to
+examine the clinical and nutritional factors influencing survival outcomes. Employing survival analysis techniques,
+we investigate how variables such as, Age, Sex, Time to event, ECOG performance scores, Karnofsky
+Scores (both by Patients and Physicians), Meal calorie intake and Weight loss contribute to patient survival
+status. The analysis aims to identify significant predictors and their interaction with the outcome variable. We
+also aim to explain the outcome variable by modeling it against plausible predictors. Moreover, we will also
+try to provide some actionable insights for improving patient care in clinical practice, thus highlighting the
+importance of integrating patient’s data on numerous factors, possible.
+
+You can find the project [here](https://github.com/PratikMJ004/Lung-Cancer){target="_blank"}

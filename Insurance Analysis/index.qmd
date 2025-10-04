@@ -1,0 +1,20 @@
+---
+title: "Insurance Analysis"
+author: "Pratik Majumdar"
+date: "2025-09-28"
+categories: [code, analysis,r]
+image: "image.png"
+---
+
+This analysis investigates the factors influencing the medical insurance charges using a data set of 1,338 patients
+containing demographic information, lifestyle attributes and health metrics, including Age,Sex, Number of children,
+Smoking status, BMI, Region of Residence, and corresponding Insurance Cost. The objective was to identify significant
+determinants of insurance charges and explore predictive modeling approaches. Data preprocessing included
+handling missing values, encoding categorical variables, and exploratory data analysis to uncover trends and correlations.
+Regression techniques were applied to quantify the impact of each factor, with particular focus on the roles of
+smoking and BMI. However, results indicate that smoking status, BMI, and age are the most substantial predictors of
+higher insurance costs, followed by number of children and region of the patient, while other factors showed little or
+no influence. These findings provide valuable insights for insurance pricing strategies and highlight the importance of
+health-related behaviors in managing medical expenditure risk.
+
+You can find the project [here](https://github.com/PratikMJ004/Insurance-Charges){target="_blank"}

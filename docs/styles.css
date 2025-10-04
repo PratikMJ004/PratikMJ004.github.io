@@ -3,3 +3,21 @@
 body{
   background-color: #f5e6eb;
 }
+
+/* Applies to iframe, embed, or object tags for PDF */
+iframe,
+embed,
+object {
+  width: 100vw;
+  height: 90vh;
+  max-width: 100%;
+  border: none;
+}
+
+@media (max-width: 600px) {
+  iframe,
+  embed,
+  object {
+    height: 65vh;
+  }
+}

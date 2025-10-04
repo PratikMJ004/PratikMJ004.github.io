@@ -10,18 +10,19 @@
 <atom:link href="https://your-website-url.example.com/portfolio.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.24</generator>
-<lastBuildDate>Sat, 27 Sep 2025 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 03 Oct 2025 18:30:00 GMT</lastBuildDate>
 <item>
-  <title>Insurance Analysis</title>
+  <title>Lung Cancer</title>
   <dc:creator>Pratik Majumdar</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <link>https://your-website-url.example.com/posts/Lung Cancer/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This was a project, accounting the Insurance charges, pertaining to various causes. You can find the project <a href="https://github.com/PratikMJ004/Insurance-Charges" target="_blank">here</a></p>
+<p>The project utilizes a comprehensive data set of 228 patients, diagnosed with advanced Lung Cancer, to examine the clinical and nutritional factors influencing survival outcomes. Employing survival analysis techniques, we investigate how variables such as, Age, Sex, Time to event, ECOG performance scores, Karnofsky Scores (both by Patients and Physicians), Meal calorie intake and Weight loss contribute to patient survival status. The analysis aims to identify significant predictors and their interaction with the outcome variable. We also aim to explain the outcome variable by modeling it against plausible predictors. Moreover, we will also try to provide some actionable insights for improving patient care in clinical practice, thus highlighting the importance of integrating patient’s data on numerous factors, possible.</p>
+<p>You can find the project <a href="https://github.com/PratikMJ004/Lung-Cancer" target="_blank">here</a></p>
 
 
 
@@ -29,30 +30,32 @@
   <category>code</category>
   <category>analysis</category>
   <category>r</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Sat, 27 Sep 2025 18:30:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://your-website-url.example.com/posts/Lung Cancer/</guid>
+  <pubDate>Fri, 03 Oct 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/Lung Cancer/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
-  <title>Welcome To My Blog</title>
+  <title>Insurance Analysis</title>
   <dc:creator>Pratik Majumdar</dc:creator>
-  <link>https://your-website-url.example.com/posts/welcome/</link>
+  <link>https://your-website-url.example.com/posts/Insurance Analysis/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is the first post in a Quarto blog. Welcome!</p>
-<p><img src="https://your-website-url.example.com/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
-<p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
+<p>This analysis investigates the factors influencing the medical insurance charges using a data set of 1,338 patients containing demographic information, lifestyle attributes and health metrics, including Age,Sex, Number of children, Smoking status, BMI, Region of Residence, and corresponding Insurance Cost. The objective was to identify significant determinants of insurance charges and explore predictive modeling approaches. Data preprocessing included handling missing values, encoding categorical variables, and exploratory data analysis to uncover trends and correlations. Regression techniques were applied to quantify the impact of each factor, with particular focus on the roles of smoking and BMI. However, results indicate that smoking status, BMI, and age are the most substantial predictors of higher insurance costs, followed by number of children and region of the patient, while other factors showed little or no influence. These findings provide valuable insights for insurance pricing strategies and highlight the importance of health-related behaviors in managing medical expenditure risk.</p>
+<p>You can find the project <a href="https://github.com/PratikMJ004/Insurance-Charges" target="_blank">here</a></p>
 
 
 
  ]]></description>
-  <category>news</category>
-  <guid>https://your-website-url.example.com/posts/welcome/</guid>
-  <pubDate>Wed, 24 Sep 2025 18:30:00 GMT</pubDate>
+  <category>code</category>
+  <category>analysis</category>
+  <category>r</category>
+  <guid>https://your-website-url.example.com/posts/Insurance Analysis/</guid>
+  <pubDate>Sat, 27 Sep 2025 18:30:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/Insurance Analysis/image.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

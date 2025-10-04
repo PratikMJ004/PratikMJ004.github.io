@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/Lung Cancer/index.html",
+    "href": "posts/Lung Cancer/index.html",
+    "title": "Lung Cancer",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "The project utilizes a comprehensive data set of 228 patients, diagnosed with advanced Lung Cancer, to examine the clinical and nutritional factors influencing survival outcomes. Employing survival analysis techniques, we investigate how variables such as, Age, Sex, Time to event, ECOG performance scores, Karnofsky Scores (both by Patients and Physicians), Meal calorie intake and Weight loss contribute to patient survival status. The analysis aims to identify significant predictors and their interaction with the outcome variable. We also aim to explain the outcome variable by modeling it against plausible predictors. Moreover, we will also try to provide some actionable insights for improving patient care in clinical practice, thus highlighting the importance of integrating patient’s data on numerous factors, possible.\nYou can find the project here"
   },
   {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "My Portfolio",
     "section": "",
-    "text": "Insurance Analysis\n\n\n\ncode\n\nanalysis\n\nr\n\n\n\n\n\n\n\n\n\nSep 28, 2025\n\n\nPratik Majumdar\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nSep 25, 2025\n\n\nPratik Majumdar\n\n\n\n\n\nNo matching items"
+    "text": "Lung Cancer\n\n\n\ncode\n\nanalysis\n\nr\n\n\n\n\n\n\n\n\n\nOct 4, 2025\n\n\nPratik Majumdar\n\n\n\n\n\n\n\n\n\n\n\n\nInsurance Analysis\n\n\n\ncode\n\nanalysis\n\nr\n\n\n\n\n\n\n\n\n\nSep 28, 2025\n\n\nPratik Majumdar\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,10 +21,10 @@
     "text": "Results-oriented learner with curiosity in coding languages like R ,C and Julia, alongside proficiency in Excel and Power BI. My technical acumen is complemented by strong critical thinking and analytical skills. With a successful internship under my belt, I’ve demonstrated the practical application of my skills in real-world scenarios. Known for effective communication, I bridge the gap between technical complexities and non-technical stakeholders. Eager to contribute coding prowess, analytical insights, and collaborative strengths to drive success in dynamic environments."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
+    "objectID": "posts/Insurance Analysis/index.html",
+    "href": "posts/Insurance Analysis/index.html",
     "title": "Insurance Analysis",
     "section": "",
-    "text": "This was a project, accounting the Insurance charges, pertaining to various causes. You can find the project here"
+    "text": "This analysis investigates the factors influencing the medical insurance charges using a data set of 1,338 patients containing demographic information, lifestyle attributes and health metrics, including Age,Sex, Number of children, Smoking status, BMI, Region of Residence, and corresponding Insurance Cost. The objective was to identify significant determinants of insurance charges and explore predictive modeling approaches. Data preprocessing included handling missing values, encoding categorical variables, and exploratory data analysis to uncover trends and correlations. Regression techniques were applied to quantify the impact of each factor, with particular focus on the roles of smoking and BMI. However, results indicate that smoking status, BMI, and age are the most substantial predictors of higher insurance costs, followed by number of children and region of the patient, while other factors showed little or no influence. These findings provide valuable insights for insurance pricing strategies and highlight the importance of health-related behaviors in managing medical expenditure risk.\nYou can find the project here"
   }
 ]
